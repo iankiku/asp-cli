@@ -1,0 +1,7 @@
+node_modules/
+storage/
+.asp/
+dist/
+*.exe
+asp-bin/
+sessions-sun-1.txt
